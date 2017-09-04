@@ -1,0 +1,25 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+background-image:url('csl.gif');
+background-size:100% 130%;
+//background-repeat:no-repeat;
+background-origin:content-box;
+//background-attachment:fixed;
+background-color: #fff;
+  color: #0000;  //BV : 333
+}
+p, ol, ul, td {
+   font-family: verdana, arial, helvetica, sans-serif;
+   font-size: 13px;
+   line-height: 18px;
+}
+
+pre {
+    background-color: #000; // BV ee
+    padding: 10px;
+    font-size: 11px;
+}
+
